@@ -1,3 +1,3 @@
-   ## Unreleased
-   - <bullet describing the introduction and history updates>
-   - <bullet describing the conflict resolution in docs/collaboration.md>
+   ## v1.0.1
+   - <The following is to demostrate the git workflow>
+   - <Conflict resolution is shown to have been ressolved>
